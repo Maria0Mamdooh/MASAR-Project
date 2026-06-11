@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1ImoKT1XAi3m_BqjKFCMhUPVXU-Tftvf2
 """
 
-# SECTION 5 - XAI, TESTING & MONITORING
-# Student 5 - xai.py
 #normalization
 import torch
 import matplotlib.pyplot as plt
