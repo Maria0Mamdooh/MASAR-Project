@@ -1,13 +1,11 @@
 import torch
 from model.TransGeo import TransGeo
-
 class Args:
     dim = 512
     dataset = "university"
     sat_res = 0
     fov = 0
     crop = False
-
 args = Args()
 
 device = "cuda" if torch.cuda.is_available() else "cpu"
