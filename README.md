@@ -132,9 +132,13 @@ These techniques help explain why the model retrieves a particular satellite ima
 
 ## MASAR Development Team
 Retaj Alhazmi
+
 Manar Ahmed
+
 Ghadeer Sami
+
 Ghala Shahir
+
 Maria Alzahery
 
 AI System Design Project
